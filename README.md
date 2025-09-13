@@ -36,7 +36,8 @@ https://www.linkedin.com/posts/umme-kulsum-6885a0310_codsoft-internship-ai-activ
 ---
 
 ## ▶️ How to Run
-Install dependencies:
-pip install torch transformers pillowRun the app:
-python image_captioning.py
-Upload an image and get the caption instantly!
+1.Install dependencies:
+  pip install torch transformers pillow
+2.Run the app:
+  Task 3.py
+3.Upload an image and get the caption instantly!
